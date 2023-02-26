@@ -1,0 +1,56 @@
+div2{margin-top:20%;}
+.table{
+    font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+  margin-left: 400px
+  
+}
+.heading1{
+   border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+.heading2{
+   border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+ 
+}
+
+
+.output1{
+   border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+    
+    
+
+.output2{
+     border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+    
+  
+
+.button{
+    background-color: orange;
+    color:whitesmoke;
+    margin-left: 45%;
+    height:4vh;
+}
+.Button{
+    margin-left: 40%;
+    background-color:#6060db;
+    color:white;
+    margin-top: 20px;
+    height:4vw;
+  border: none;
+  font-weight: bolder;
+  border-radius: 8px;
+
+}
